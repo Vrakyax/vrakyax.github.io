@@ -2,4 +2,4 @@
 
 Made by Edvin
 
-Just a simple website. made. 
+Just a simple website I made. 
